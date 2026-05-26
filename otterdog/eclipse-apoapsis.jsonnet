@@ -190,6 +190,7 @@ orgs.newOrg('technology.apoapsis', 'eclipse-apoapsis') {
               "integration-test",
               "prettier-ui",
               "prettier-website",
+              "project-health",
               "publication-test",
               "renovate-validation",
               "reuse-tool",
